@@ -1,7 +1,7 @@
 lighthouse-role
 =========
 
-Download and install Vector
+Download and install Lighthouse
 
 Example Playbook
 ----------------
